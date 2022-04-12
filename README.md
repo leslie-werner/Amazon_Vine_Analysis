@@ -13,7 +13,17 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 
 * How many Vine reviews and non-Vine reviews were there?
 
+- There was a total of 94 paid reviews. 
+<img width="679" alt="vine_paid_reviews" src="https://user-images.githubusercontent.com/65638310/163071756-b2618b6b-7002-4128-8239-0233f5e960b0.png">
+
+- There was a total number of 40471 non-Vine paid reviews.
+<img width="696" alt="non-paid_reviews" src="https://user-images.githubusercontent.com/65638310/163071934-371ba46e-7c5c-453a-94c4-b0dfb8faa360.png">
+
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
+-There was reviews that were 5 stars were from Vine members. 
+
+-There was reviews with 5 stars from non-Vine members.
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
